@@ -56,8 +56,6 @@ I'm a passionate developer who loves building things for the web and learning ne
 
 ---
 
-![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepanshuT25&show_icons=true&theme=radical)
-## Hi there 👋
 
 <!--
 **DeepanshuT25/DeepanshuT25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
